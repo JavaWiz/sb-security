@@ -1,4 +1,4 @@
-package com.javawiz.sbsecuritybasic;
+package com.javawiz.sbsecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
